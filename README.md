@@ -12,7 +12,9 @@ About me:
 
 ## 🛠️ Languages and Tools :
 
-![1051277](https://user-images.githubusercontent.com/122346708/213784388-d6be1c02-583a-4049-8864-f33e3dfa8ec2.png)
+<img src="https://user-images.githubusercontent.com/122346708/213784388-d6be1c02-583a-4049-8864-f33e3dfa8ec2.png" width="40" height="40"/>
+
+![1051277](https://user-images.githubusercontent.com/122346708/213784388-d6be1c02-583a-4049-8864-f33e3dfa8ec2.png) 
 ![732190](https://user-images.githubusercontent.com/122346708/213784307-038523f1-8fcc-47e2-8d16-b9c14d0a3eb9.png)
 ![5968292](https://user-images.githubusercontent.com/122346708/213784476-69e75cf2-3d3c-4b84-8d0e-df5d58c70a8f.png)
 ![5968672](https://user-images.githubusercontent.com/122346708/213784491-ef7580fc-f0f6-469c-b4b2-5683c88576d0.png)
