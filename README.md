@@ -17,4 +17,5 @@
 
 ## Me Time :
 
-<img src="http://knplabs.com/fr/blog/diving-into-docker-live-coding-session" align="center"/>
+<img src="https://user-images.githubusercontent.com/122346708/213794739-c7da6f36-9a13-41a6-b6a9-65056b95f861.gif" align="center"/>
+
