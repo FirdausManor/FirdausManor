@@ -3,7 +3,7 @@
 ![coding no idea](https://user-images.githubusercontent.com/122346708/213785967-988405b6-03d0-4301-83f1-b97452ad7041.gif)
 
 
-About me:
+#About me :
 
 - 🍨 I’m currently studying for a bachelor's degree in Computer Science.
 - 🪜 I'm currently learning full stack, with a focus on front-end.
