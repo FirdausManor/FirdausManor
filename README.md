@@ -1,7 +1,7 @@
 ## Hi there 👋🏼 I'm Dao🌟👀
 
 <!-- <img src="https://user-images.githubusercontent.com/122346708/213785967-988405b6-03d0-4301-83f1-b97452ad7041.gif"/> -->
-<img src="https://user-images.githubusercontent.com/122346708/215160671-e14dcc0f-1c50-45c0-a997-5d267c41eda8.gif" width="700" height="500"/>
+<img src="https://user-images.githubusercontent.com/122346708/215160671-e14dcc0f-1c50-45c0-a997-5d267c41eda8.gif" width="800" height="500"/>
 
 
 ### About me :
