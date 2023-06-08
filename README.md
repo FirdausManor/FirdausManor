@@ -7,8 +7,8 @@
 ### About me :
 
 - 🍨 I’m currently studying for a bachelor's degree in Computer Science.
-- 🪜 I'm currently learning full stack, with a focus on front-end.
-- 🔐 Having an interest in cyber security.
+- 🪜 I'm currently learning full stack.
+- 🔐 Having an interest in cyber security and ux/ui designer.
 - 📧 How to reach me: firdaus.manor66@gmail.com
 
 
